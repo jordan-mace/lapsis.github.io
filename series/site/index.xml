@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on Jordan Mace</title>
+    <link>https://jordan.mace.sh/series/site/</link>
+    <description>Recent content in Site on Jordan Mace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jordan.mace.sh/series/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Well, that worked!</title>
+      <link>https://jordan.mace.sh/posts/well-that-worked/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordan.mace.sh/posts/well-that-worked/</guid>
+      <description>So the site is live! I will admit, I am not particularly savvy when it comes to JavaScript frameworks. I am primarily a C# developer yet here we are.
+So, let me introduce myself. I&amp;rsquo;m Jordan, a twenty two year old automated test engineer based in Victoria, Australia.</description>
+    </item>
+    
+  </channel>
+</rss>
