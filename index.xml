@@ -6,12 +6,11 @@
     <description>Recent content on Jordan Mace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jordan.mace.sh/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://jordan.mace.sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Well, that worked!</title>
       <link>https://jordan.mace.sh/posts/well-that-worked/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jordan.mace.sh/posts/well-that-worked/</guid>
       <description>So the site is live! I will admit, I am not particularly savvy when it comes to JavaScript frameworks. I am primarily a C# developer yet here we are.

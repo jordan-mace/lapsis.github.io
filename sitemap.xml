@@ -4,31 +4,26 @@
   
   <url>
     <loc>https://jordan.mace.sh/posts/well-that-worked/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jordan.mace.sh/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jordan.mace.sh/posts/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jordan.mace.sh/series/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jordan.mace.sh/series/site/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jordan.mace.sh/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jordan.mace.sh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jordan.mace.sh/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jordan.mace.sh/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jordan.mace.sh/series/site/</loc>
   </url>
   
   <url>
